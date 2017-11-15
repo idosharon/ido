@@ -1,0 +1,11 @@
+R = raw_input()
+I = raw_input()
+print("              I AM ")+(I)+(" PREMIUM      ")
+print("     ---------------------------------- ")
+print(" ")
+
+print("                ")+(R)+(" the ")+( I)
+print(" ")
+print(" ")
+print(" ")
+0
